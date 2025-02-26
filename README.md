@@ -1,10 +1,10 @@
 # Hello! 👋 
 
-I'm Amirthavarshini, a software engineer who loves turning complex problems into workable solutions. Currently crafting full-stack applications at East Carolina University and holding an MS in Computer Science from UNC Charlotte.
+I'm Amirthavarshini, a Full-Stack Software Engineer who loves turning complex problems into workable solutions. Currently building e-commerce website, crafting full-stack applications and holding an MS in Computer Science from UNC Charlotte.
 
-🔭 Working on:  Building data-driven E-learning web applications and Fine-tuning LLMs
+🔭 Working on:  Building data-driven e-commerce and E-learning web applications and Fine-tuning LLMs
 
-🛠️ Daily drivers: Next.js, TypeScript, Django, Python, PostgreSQL
+🛠️ Daily drivers: Next.js, TypeScript, Django, Python, PostgreSQL, MongoDB
 
 🤖 ML enthusiast: Experience with PyTorch, TensorFlow, and real-time pose estimation
 
